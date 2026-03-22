@@ -20,3 +20,6 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic usage examples to README
 - Improved error handling in edge cases
 - Added CONTRIBUTING.md stub
+
+## 2026-03-23
+- Documented config options
